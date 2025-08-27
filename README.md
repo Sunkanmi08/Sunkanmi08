@@ -2,12 +2,11 @@
 
 **Mechatronics Undergraduate @ UNIOSUN 
 • ALX Software Engineer Learner**  
-*Innovate and build for Africa*
 
 ---
 
 ### Vision
-> {{I love building and i would like to be maximally useful to the universe}}
+> I love building and i would like to be maximally useful to the universe
 
 ---
 
@@ -30,7 +29,9 @@
 ---
 
 ### 📫 Connect
-[X Profile](https://x.com/{{sunkanmi__18}}) • [Email](mailto:{{sunkanmi.me}})
+[X Profile](https://x.com/{sunkanmi__18})
+
+• [Email](mailto:{{sunkanmi.me}})
 
 ---
 
