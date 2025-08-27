@@ -29,9 +29,9 @@
 ---
 
 ### 📫 Connect
-[X Profile](https://x.com/{sunkanmi__18})
+[X Profile](https://x.com/Sunkanmi__18)
 
-• [Email](mailto:{{sunkanmi.me}})
+• [Email](mailto:sunkanmi.me@utlook.com)
 
 ---
 
