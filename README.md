@@ -1,7 +1,7 @@
 #  i am Sunkanmi
 
 **Mechatronics Undergraduate @ UNIOSUN 
-• ALX Software Engineer Learner**  
+• Software Engineer Learning and building**  
 
 ---
 
