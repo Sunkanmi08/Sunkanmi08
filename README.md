@@ -12,12 +12,14 @@
 
 ### 🛠️ Skills
 - Python
+- html and css
 - Django
 - JavaScript
 - React
 - tailwind
 - C
 - Git/GitHub
+
 
 ### 📫 Connect
 [X Profile](https://x.com/Sunkanmi__18)
