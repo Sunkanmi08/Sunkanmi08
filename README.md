@@ -24,7 +24,7 @@
 ### 📫 Connect
 [X Profile](https://x.com/Sunkanmi__18)
 
-• [Email](me@sunkanmi.com)
+• [Email](mailto:me@sunkanmi.com)
 
 ---
 
