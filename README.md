@@ -24,10 +24,10 @@
 
 ---
 
-## 📫 Get in Touch
+## 📫 Connect with me
 
-* **X:** https://x.com/Sunkanmi__18
-* **Email:** [sunk@sunkanmi.com](mailto:sunk@sunkanmi.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sunkanmi__18)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunk@sunkanmi.com)
 
 ---
 
