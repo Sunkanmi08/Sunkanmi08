@@ -1,32 +1,36 @@
-#  i am Sunkanmi
+# Hi, I'm Sunkanmi 👋
 
-**Mechatronics Undergraduate
-• Software Engineer Learning and building**  
-
----
-
-### Vision
-> I love building and i would like to be maximally useful to the universe
+**Mechatronics Engineering Undergraduate**
+**Software Engineer | Learning and Building**
 
 ---
 
-### 🛠️ Skills
-- Python
-- html and css
-- Django
-- JavaScript
-- React
-- tailwind
-- C
-- Git/GitHub
+## 🚀 Vision
 
-
-### 📫 Connect
-[X Profile](https://x.com/Sunkanmi__18)
-
-• [Email](mailto:me@sunkanmi.com)
+> I love building things, and I want to be as useful to the world as possible.
 
 ---
 
-*Last updated: {{Last Updated Date}}*
+## 🛠️ Skills
+
+* Python
+* HTML & CSS
+* JavaScript
+* Django
+* React
+* Tailwind CSS
+* C
+* Git & GitHub
+
+---
+
+## 📫 Get in Touch
+
+* **X:** https://x.com/Sunkanmi__18
+* **Email:** [sunk@sunkanmi.com](mailto:sunk@sunkanmi.com)
+
+---
+
+*Last updated: {{july 2026}}*
+
 
